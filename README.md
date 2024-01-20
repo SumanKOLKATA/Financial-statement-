@@ -3,7 +3,7 @@ Balance sheet and income statement to evaluate organization performance and curr
 
 ## Income statement 
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Income statement .png">
 
 ## Blance sheet 
 
